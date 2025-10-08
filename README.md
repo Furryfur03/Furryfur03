@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I’m currently working on <img src="https://images.squarespace-cdn.com/content/v1/5f0770791aaf57311515b23d/64ea7bc8-02c5-4c1e-97cf-5c3aa79300f6/VRC_Logo.png?format=1500w" alt="alt text" width="55"> for <img src="https://play-lh.googleusercontent.com/a7N7U_Xy-JkQMqcOHXFMGEs3rStXoeMbtw4gBtSsftmfqDi71sB88uQ2b92KMqgfVg=w480-h960-rw" alt="alt text" width="25">
+Living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/250px-Flag_of_Singapore.svg.png" alt="alt text" width="25">
+
+Currently working on <img src="https://images.squarespace-cdn.com/content/v1/5f0770791aaf57311515b23d/64ea7bc8-02c5-4c1e-97cf-5c3aa79300f6/VRC_Logo.png?format=1500w" alt="alt text" width="45"> for <img src="https://play-lh.googleusercontent.com/a7N7U_Xy-JkQMqcOHXFMGEs3rStXoeMbtw4gBtSsftmfqDi71sB88uQ2b92KMqgfVg=w480-h960-rw" alt="alt text" width="19">
 
 <!--
 **Furryfur03/Furryfur03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
