@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m currently working on <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Link-List-Icons-Microsoft-365?wid=40&hei=40" alt="alt text" width="35">
+I’m currently working on <img src="https://images.squarespace-cdn.com/content/v1/5f0770791aaf57311515b23d/64ea7bc8-02c5-4c1e-97cf-5c3aa79300f6/VRC_Logo.png?format=1500w" alt="alt text" width="55">
 
 <!--
 **Furryfur03/Furryfur03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
