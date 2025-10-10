@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://github.com/Furryfur03/Furryfur-s-Pics/blob/main/IMG_20250625_232837.png?raw=true" alt="alt text" width="90"><br>
 Living in <img src="https://github.com/Furryfur03/Furryfur-s-Pics/blob/main/Flag_of_Singapore.png?raw=true" alt="alt text" width="25">
 
 Currently working on <img src="https://github.com/Furryfur03/Furryfur-s-Pics/blob/main/VRC_Logo.png?raw=true" alt="alt text" width="45"> for <img src="https://github.com/Furryfur03/Furryfur-s-Pics/blob/main/ERP.jpg?raw=true" alt="alt text" width="19"> (?)
